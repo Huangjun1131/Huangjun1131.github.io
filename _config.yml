@@ -17,8 +17,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Huang Jun
-  tagline: Developer. Designer
+  title: 黄俊
+  tagline: 嵌入式开发工程师,民间码农
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
