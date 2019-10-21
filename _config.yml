@@ -23,12 +23,12 @@ texture:
   style: black
   showNav: false
   showPicker: false
-
+  disqus_shortname: games
   # generate social links in footer
   social_links:
-    twitter: Huangjun1131
+  #  twitter: Huangjun1131
     github:  Huangjun1131
-    linkedIn: in/Huangjun1131
+#    linkedIn: in/Huangjun1131
     rss: rss
  
 
