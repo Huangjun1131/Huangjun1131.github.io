@@ -18,7 +18,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 黄俊
-  tagline: 嵌入式开发工程师,民间码农
+  tagline: 嵌入式开发工程师, 民间码农, 古诗词伪爱好者
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
