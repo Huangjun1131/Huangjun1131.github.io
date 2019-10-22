@@ -30,7 +30,22 @@ texture:
     github:  Huangjun1131
 #    linkedIn: in/Huangjun1131
     rss: rss
- 
+    
+# Valine评论系统开关
+# Valine.
+# You can get your appid and appkey from https://leancloud.app
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid:  lIGwutISFHMNigYzMFR42KRq-gzGzoHsz # your leancloud app id
+  appkey: qW6E17e681T6CXQnWdJ1pcYv # your leancloud app key
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
+  placeholder: 非Github帐号登录用户，在此处留言 # comment box placeholder
+  avatar:   # gravatar style
+  guest_info: 昵称,邮件,网址 # custom comment header
+  pageSize: 10 # pagination size
+  # path: window.location.pathname 
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
